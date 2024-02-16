@@ -10,7 +10,11 @@
      </a>
      <a style="text-decoration:none" href="CODE_OF_CONDUCT.md">
           <img src="https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg" alt="Code of Conduct" />
-     </a>
+     </a>     
+</p>
+     <h2>Find Us On The Google Play Store:</h2>
+<p align="center">
+<a href="https://play.google.com/store/apps/dev?id=8599109884308816488" target="_blank"><img src="/screenshots/google.png" alt="Google Play Store Link"></a>
 </p>
 
 If you want to create an Android app from any website without writing a lot of code, WebView Template is the perfect solution for you. It is a ready-made WebView template that saves you time and hassle.
@@ -42,3 +46,6 @@ If you want to create an Android app from any website without writing a lot of c
 2. Replace default app icons with your own.
 
 *Optional*: Change the value of `javaScriptEnabled` to `false` in `MainActivity.kt` if your website doesn't contain any JavaScript elements.
+
+## ScreenShots
+<img src="/screenshots/421814416_933224221576747_2243912789096801651_n.jpg" alt="screenshot" /> <img src="/screenshots/422058124_1050114512730649_8978524172455846166_n.jpg" alt="screenshot" />
