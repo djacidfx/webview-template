@@ -18,6 +18,7 @@ If you want to create an Android app from any website without writing a lot of c
 ### Features
 * Support Android 5.0+ to 14
 * Latest Android libraries
+* Splash Screen
 * Progress bar to indicate a webpage is being loaded.
 * Swipe down to refresh current webpage.
 * Show custom error page in times of connectivity issues.
