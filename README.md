@@ -17,7 +17,7 @@
 <a href="https://play.google.com/store/apps/dev?id=8599109884308816488" target="_blank"><img src="/screenshots/google.png" alt="Google Play Store Link"></a>
 </p>
 
-If you want to create an Android app from any website without writing a lot of code, WebView Template is the perfect solution for you. It is a ready-made WebView template that saves you time and hassle.
+If you want to create an Android app from any responcive website without writing a lot of code? This project is the perfect solution for you. It is a ready-made WebView template that saves you time and hassle.
 
 ### Features
 * Support Android 5.0+ to 14
