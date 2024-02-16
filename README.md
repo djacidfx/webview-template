@@ -1,26 +1,29 @@
 <h1 align="center">
-     SuperWebView
+     WebView Template
 </h1>
 <p align="center">
-     <a style="text-decoration:none" href="https://github.com/roozbehzarei/SuperWebView/commits/master">
-          <img src="https://img.shields.io/github/last-commit/roozbehzarei/superwebview?color=informational&label=last%20update" alt="License" />
+     <a style="text-decoration:none" href="https://github.com/djacidfx/webview-template/commits/master">
+          <img src="https://img.shields.io/github/last-commit/djacidfx/webview-template?color=informational&label=last%20update" alt="License" />
      </a>
      <a style="text-decoration:none" href="LICENSE">
-          <img src="https://img.shields.io/github/license/roozbehzarei/superwebview" alt="License" />
+          <img src="https://img.shields.io/github/license/djacidfx/webview-template" alt="License" />
      </a>
      <a style="text-decoration:none" href="CODE_OF_CONDUCT.md">
           <img src="https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg" alt="Code of Conduct" />
      </a>
 </p>
 
-If you want to create an Android app from any website without writing a lot of code, SuperWebView is the perfect solution for you. It is a ready-made WebView template that saves you time and hassle.
+If you want to create an Android app from any website without writing a lot of code, WebView Template is the perfect solution for you. It is a ready-made WebView template that saves you time and hassle.
 
 ### Features
-* Support Android 5.0+
+* Support Android 5.0+ to 14
+* Latest Android libraries
+* Splash Screen
 * Progress bar to indicate a webpage is being loaded.
 * Swipe down to refresh current webpage.
 * Show custom error page in times of connectivity issues.
 * Protect WebView's state from configuration changes. (e.g. screen orientation and keyboard availability changes)
+* Plenty of comments in source code
 
 ## Build
 1. Click the **Code** button, which brings up a dialog.
