@@ -47,5 +47,8 @@ If you want to create an Android app from any responcive website without writing
 
 *Optional*: Change the value of `javaScriptEnabled` to `false` in `MainActivity.kt` if your website doesn't contain any JavaScript elements.
 
+## Build Service
+If you are unable to build your own version of this repo and would like us to build for you ready to publish, we will be offering a build serives soon and will post an update when it's ready!
+
 ## ScreenShots
 <img src="/screenshots/421814416_933224221576747_2243912789096801651_n.jpg" alt="screenshot" /> <img src="/screenshots/422058124_1050114512730649_8978524172455846166_n.jpg" alt="screenshot" />
