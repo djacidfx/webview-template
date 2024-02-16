@@ -1,12 +1,12 @@
 <h1 align="center">
-     SuperWebView
+     WebView Template
 </h1>
 <p align="center">
-     <a style="text-decoration:none" href="https://github.com/roozbehzarei/SuperWebView/commits/master">
-          <img src="https://img.shields.io/github/last-commit/roozbehzarei/superwebview?color=informational&label=last%20update" alt="License" />
+     <a style="text-decoration:none" href="https://github.com/djacidfx/webview-template/commits/master">
+          <img src="https://img.shields.io/github/last-commit/djacidfx/webview-template?color=informational&label=last%20update" alt="License" />
      </a>
      <a style="text-decoration:none" href="LICENSE">
-          <img src="https://img.shields.io/github/license/roozbehzarei/superwebview" alt="License" />
+          <img src="https://img.shields.io/github/license/djacidfx/webview-template" alt="License" />
      </a>
      <a style="text-decoration:none" href="CODE_OF_CONDUCT.md">
           <img src="https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg" alt="Code of Conduct" />
