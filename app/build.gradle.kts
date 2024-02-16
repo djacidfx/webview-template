@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.roozbehzarei.superwebview"
+        applicationId = "work.mywild.portfolio"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
@@ -30,10 +30,10 @@ android {
         viewBinding = true
     }
 
-    compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_1_8
-        targetCompatibility = JavaVersion.VERSION_1_8
-    }
+    //compileOptions {
+      //  sourceCompatibility = VERSION_1_8
+        //targetCompatibility = VERSION_1_8
+    //}
     kotlinOptions {
         jvmTarget = "1.8"
     }
